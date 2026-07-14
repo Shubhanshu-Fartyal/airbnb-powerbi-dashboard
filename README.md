@@ -1,4 +1,4 @@
-# Airbnb Listings & Reviews Analysis Dashboard
+# Airbnb Performance Dashboard
 
 ## Project Overview
 
