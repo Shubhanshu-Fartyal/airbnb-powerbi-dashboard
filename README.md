@@ -122,23 +122,19 @@ https://mavenanalytics.io/data-playground/airbnb-listings-reviews
 
 ### Executive Overview
 
-<img width="767" height="577" alt="Screenshot 2026-07-14 193914" src="https://github.com/user-attachments/assets/fddedefa-f418-40be-991d-615fc0e9fd7d" />
-
+<img width="683" height="517" alt="Screenshot 2026-07-14 194956" src="https://github.com/user-attachments/assets/ad42e1c3-deb1-4414-99bb-09854cd0e8db" />
 
 ### Ratings Dashboard
 
-<img width="767" height="577" alt="Screenshot 2026-07-14 194002" src="https://github.com/user-attachments/assets/2722cb92-2ca9-47cf-b677-f69a9db2fdd7" />
-
+<img width="685" height="517" alt="Screenshot 2026-07-14 195026" src="https://github.com/user-attachments/assets/04ae3766-eb75-46e3-ac1a-2f1179089dcf" />
 
 ### Reviews Dashboard
 
-<img width="768" height="576" alt="Screenshot 2026-07-14 194543" src="https://github.com/user-attachments/assets/f4bcf077-6cbe-4fa3-9c23-b35bf6b8b5a9" />
-
+<img width="683" height="516" alt="Screenshot 2026-07-14 195056" src="https://github.com/user-attachments/assets/adecfb55-f8b1-48dc-bbe3-9ace294178bd" />
 
 ### Data Model
 
-<img width="857" height="403" alt="Screenshot 2026-07-14 194109" src="https://github.com/user-attachments/assets/d30b74a6-a8fa-4485-879c-8dbbca15539b" />
-
+<img width="808" height="350" alt="Screenshot 2026-07-14 195120" src="https://github.com/user-attachments/assets/bd53c143-37b7-424f-8afd-e3e512542396" />
 
 ---
 
